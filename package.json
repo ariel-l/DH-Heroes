@@ -1,0 +1,23 @@
+{
+  "name": "tp-heroes",
+  "version": "1.0.0",
+  "description": "Práctica Integradora perteneciente a Digital House dictado por [Fundación Formar](https://www.fundacionformar.net/)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariel-l/DH-Heroes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ariel-l/DH-Heroes/issues"
+  },
+  "homepage": "https://github.com/ariel-l/DH-Heroes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
